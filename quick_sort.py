@@ -1,3 +1,6 @@
+"""
+Quick Sort Implementation using Python
+"""
 def quick_sort(arr):
     if len(arr) <= 1: 
         return arr
